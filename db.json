@@ -25,18 +25,18 @@
     },
     "category": "smartphone",
     "images": {
-      "present": "api/img/44951705371.jpg",
+      "present": "img/44951705371.jpg",
       "large": [
-        "api/img/44951705371-l.jpg",
-        "api/img/44951705372-l.jpg",
-        "api/img/44951705373-l.jpg",
-        "api/img/44951705374-l.jpg"
+        "img/44951705371-l.jpg",
+        "img/44951705372-l.jpg",
+        "img/44951705373-l.jpg",
+        "img/44951705374-l.jpg"
       ],
       "small": [
-        "api/img/44951705371-s.jpg",
-        "api/img/44951705372-s.jpg",
-        "api/img/44951705373-s.jpg",
-        "api/img/44951705374-s.jpg"
+        "img/44951705371-s.jpg",
+        "img/44951705372-s.jpg",
+        "img/44951705373-s.jpg",
+        "img/44951705374-s.jpg"
       ]
     }
   },
@@ -65,18 +65,18 @@
     },
     "category": "smartphone",
     "images": {
-      "present": "api/img/44178633161.jpg",
+      "present": "img/44178633161.jpg",
       "large": [
-        "api/img/44178633161-l.jpg",
-        "api/img/44178633162-l.jpg",
-        "api/img/44178633163-l.jpg",
-        "api/img/44178633164-l.jpg"
+        "img/44178633161-l.jpg",
+        "img/44178633162-l.jpg",
+        "img/44178633163-l.jpg",
+        "img/44178633164-l.jpg"
       ],
       "small": [
-        "api/img/44178633161-s.jpg",
-        "api/img/44178633162-s.jpg",
-        "api/img/44178633163-s.jpg",
-        "api/img/44178633164-s.jpg"
+        "img/44178633161-s.jpg",
+        "img/44178633162-s.jpg",
+        "img/44178633163-s.jpg",
+        "img/44178633164-s.jpg"
       ]
     }
   },
@@ -107,22 +107,22 @@
     },
     "category": "smartphone",
     "images": {
-      "present": "api/img/83619084571.jpg",
+      "present": "img/83619084571.jpg",
       "large": [
-        "api/img/83619084571-l.jpg",
-        "api/img/83619084572-l.jpg",
-        "api/img/83619084573-l.jpg",
-        "api/img/83619084574-l.jpg",
-        "api/img/83619084575-l.jpg",
-        "api/img/83619084576-l.jpg"
+        "img/83619084571-l.jpg",
+        "img/83619084572-l.jpg",
+        "img/83619084573-l.jpg",
+        "img/83619084574-l.jpg",
+        "img/83619084575-l.jpg",
+        "img/83619084576-l.jpg"
       ],
       "small": [
-        "api/img/83619084571-s.jpg",
-        "api/img/83619084572-s.jpg",
-        "api/img/83619084573-s.jpg",
-        "api/img/83619084574-s.jpg",
-        "api/img/83619084575-s.jpg",
-        "api/img/83619084576-s.jpg"
+        "img/83619084571-s.jpg",
+        "img/83619084572-s.jpg",
+        "img/83619084573-s.jpg",
+        "img/83619084574-s.jpg",
+        "img/83619084575-s.jpg",
+        "img/83619084576-s.jpg"
       ]
     }
   },
@@ -150,22 +150,22 @@
     },
     "category": "smartphone",
     "images": {
-      "present": "api/img/71114058551.jpg",
+      "present": "img/71114058551.jpg",
       "large": [
-        "api/img/71114058551-l.jpg",
-        "api/img/71114058552-l.jpg",
-        "api/img/71114058553-l.jpg",
-        "api/img/71114058554-l.jpg",
-        "api/img/71114058555-l.jpg",
-        "api/img/71114058556-l.jpg"
+        "img/71114058551-l.jpg",
+        "img/71114058552-l.jpg",
+        "img/71114058553-l.jpg",
+        "img/71114058554-l.jpg",
+        "img/71114058555-l.jpg",
+        "img/71114058556-l.jpg"
       ],
       "small": [
-        "api/img/71114058551-s.jpg",
-        "api/img/71114058552-s.jpg",
-        "api/img/71114058553-s.jpg",
-        "api/img/71114058554-s.jpg",
-        "api/img/71114058555-s.jpg",
-        "api/img/71114058556-s.jpg"
+        "img/71114058551-s.jpg",
+        "img/71114058552-s.jpg",
+        "img/71114058553-s.jpg",
+        "img/71114058554-s.jpg",
+        "img/71114058555-s.jpg",
+        "img/71114058556-s.jpg"
       ]
     }
   },
@@ -194,22 +194,22 @@
     },
     "category": "smartphone",
     "images": {
-      "present": "api/img/66910843091.jpg",
+      "present": "img/66910843091.jpg",
       "large": [
-        "api/img/66910843091-l.jpg",
-        "api/img/66910843092-l.jpg",
-        "api/img/66910843093-l.jpg",
-        "api/img/66910843094-l.jpg",
-        "api/img/66910843095-l.jpg",
-        "api/img/66910843096-l.jpg"
+        "img/66910843091-l.jpg",
+        "img/66910843092-l.jpg",
+        "img/66910843093-l.jpg",
+        "img/66910843094-l.jpg",
+        "img/66910843095-l.jpg",
+        "img/66910843096-l.jpg"
       ],
       "small": [
-        "api/img/66910843091-s.jpg",
-        "api/img/66910843092-s.jpg",
-        "api/img/66910843093-s.jpg",
-        "api/img/66910843094-s.jpg",
-        "api/img/66910843095-s.jpg",
-        "api/img/66910843096-s.jpg"
+        "img/66910843091-s.jpg",
+        "img/66910843092-s.jpg",
+        "img/66910843093-s.jpg",
+        "img/66910843094-s.jpg",
+        "img/66910843095-s.jpg",
+        "img/66910843096-s.jpg"
       ]
     }
   },
@@ -238,20 +238,20 @@
     },
     "category": "smartphone",
     "images": {
-      "present": "api/img/59631534211.jpg",
+      "present": "img/59631534211.jpg",
       "large": [
-        "api/img/59631534211-l.jpg",
-        "api/img/59631534212-l.jpg",
-        "api/img/59631534213-l.jpg",
-        "api/img/59631534214-l.jpg",
-        "api/img/59631534215-l.jpg"
+        "img/59631534211-l.jpg",
+        "img/59631534212-l.jpg",
+        "img/59631534213-l.jpg",
+        "img/59631534214-l.jpg",
+        "img/59631534215-l.jpg"
       ],
       "small": [
-        "api/img/59631534211-s.jpg",
-        "api/img/59631534212-s.jpg",
-        "api/img/59631534213-s.jpg",
-        "api/img/59631534214-s.jpg",
-        "api/img/59631534215-s.jpg"
+        "img/59631534211-s.jpg",
+        "img/59631534212-s.jpg",
+        "img/59631534213-s.jpg",
+        "img/59631534214-s.jpg",
+        "img/59631534215-s.jpg"
       ]
     }
   },
@@ -284,20 +284,20 @@
     },
     "category": "smartphone",
     "images": {
-      "present": "api/img/72101524531.jpg",
+      "present": "img/72101524531.jpg",
       "large": [
-        "api/img/72101524531-l.jpg",
-        "api/img/72101524532-l.jpg",
-        "api/img/72101524533-l.jpg",
-        "api/img/72101524534-l.jpg",
-        "api/img/72101524535-l.jpg"
+        "img/72101524531-l.jpg",
+        "img/72101524532-l.jpg",
+        "img/72101524533-l.jpg",
+        "img/72101524534-l.jpg",
+        "img/72101524535-l.jpg"
       ],
       "small": [
-        "api/img/72101524531-s.jpg",
-        "api/img/72101524532-s.jpg",
-        "api/img/72101524533-s.jpg",
-        "api/img/72101524534-s.jpg",
-        "api/img/72101524535-s.jpg"
+        "img/72101524531-s.jpg",
+        "img/72101524532-s.jpg",
+        "img/72101524533-s.jpg",
+        "img/72101524534-s.jpg",
+        "img/72101524535-s.jpg"
       ]
     }
   },
@@ -330,26 +330,26 @@
     },
     "category": "smartphone",
     "images": {
-      "present": "api/img/90959172361.jpg",
+      "present": "img/90959172361.jpg",
       "large": [
-        "api/img/90959172361-l.jpg",
-        "api/img/90959172362-l.jpg",
-        "api/img/90959172363-l.jpg",
-        "api/img/90959172364-l.jpg",
-        "api/img/90959172365-l.jpg",
-        "api/img/90959172366-l.jpg",
-        "api/img/90959172367-l.jpg",
-        "api/img/90959172368-l.jpg"
+        "img/90959172361-l.jpg",
+        "img/90959172362-l.jpg",
+        "img/90959172363-l.jpg",
+        "img/90959172364-l.jpg",
+        "img/90959172365-l.jpg",
+        "img/90959172366-l.jpg",
+        "img/90959172367-l.jpg",
+        "img/90959172368-l.jpg"
       ],
       "small": [
-        "api/img/90959172361-s.jpg",
-        "api/img/90959172362-s.jpg",
-        "api/img/90959172363-s.jpg",
-        "api/img/90959172364-s.jpg",
-        "api/img/90959172365-s.jpg",
-        "api/img/90959172366-s.jpg",
-        "api/img/90959172367-s.jpg",
-        "api/img/90959172368-s.jpg"
+        "img/90959172361-s.jpg",
+        "img/90959172362-s.jpg",
+        "img/90959172363-s.jpg",
+        "img/90959172364-s.jpg",
+        "img/90959172365-s.jpg",
+        "img/90959172366-s.jpg",
+        "img/90959172367-s.jpg",
+        "img/90959172368-s.jpg"
       ]
     }
   },
@@ -378,20 +378,20 @@
     },
     "category": "tablets",
     "images": {
-      "present": "api/img/24956794611.jpg",
+      "present": "img/24956794611.jpg",
       "large": [
-        "api/img/24956794611-l.jpg",
-        "api/img/24956794612-l.jpg",
-        "api/img/24956794613-l.jpg",
-        "api/img/24956794614-l.jpg",
-        "api/img/24956794615-l.jpg"
+        "img/24956794611-l.jpg",
+        "img/24956794612-l.jpg",
+        "img/24956794613-l.jpg",
+        "img/24956794614-l.jpg",
+        "img/24956794615-l.jpg"
       ],
       "small": [
-        "api/img/24956794611-s.jpg",
-        "api/img/24956794612-s.jpg",
-        "api/img/24956794613-s.jpg",
-        "api/img/24956794614-s.jpg",
-        "api/img/24956794615-s.jpg"
+        "img/24956794611-s.jpg",
+        "img/24956794612-s.jpg",
+        "img/24956794613-s.jpg",
+        "img/24956794614-s.jpg",
+        "img/24956794615-s.jpg"
       ]
     }
   },
@@ -416,9 +416,9 @@
     },
     "category": "tablets",
     "images": {
-      "present": "api/img/14380352311.jpg",
-      "large": ["api/img/14380352311-l.jpg", "api/img/14380352312-l.jpg"],
-      "small": ["api/img/14380352311-s.jpg", "api/img/14380352312-s.jpg"]
+      "present": "img/14380352311.jpg",
+      "large": ["img/14380352311-l.jpg", "img/14380352312-l.jpg"],
+      "small": ["img/14380352311-s.jpg", "img/14380352312-s.jpg"]
     }
   },
   {
@@ -442,16 +442,16 @@
     },
     "category": "tablets",
     "images": {
-      "present": "api/img/78555782811.jpg",
+      "present": "img/78555782811.jpg",
       "large": [
-        "api/img/78555782811-l.jpg",
-        "api/img/78555782812-l.jpg",
-        "api/img/78555782813-l.jpg"
+        "img/78555782811-l.jpg",
+        "img/78555782812-l.jpg",
+        "img/78555782813-l.jpg"
       ],
       "small": [
-        "api/img/78555782811-s.jpg",
-        "api/img/78555782812-s.jpg",
-        "api/img/78555782813-s.jpg"
+        "img/78555782811-s.jpg",
+        "img/78555782812-s.jpg",
+        "img/78555782813-s.jpg"
       ]
     }
   },
@@ -476,22 +476,22 @@
     },
     "category": "smartwatch",
     "images": {
-      "present": "api/img/71563283061.jpg",
+      "present": "img/71563283061.jpg",
       "large": [
-        "api/img/71563283061-l.jpg",
-        "api/img/71563283062-l.jpg",
-        "api/img/71563283063-l.jpg",
-        "api/img/71563283064-l.jpg",
-        "api/img/71563283065-l.jpg",
-        "api/img/71563283066-l.jpg"
+        "img/71563283061-l.jpg",
+        "img/71563283062-l.jpg",
+        "img/71563283063-l.jpg",
+        "img/71563283064-l.jpg",
+        "img/71563283065-l.jpg",
+        "img/71563283066-l.jpg"
       ],
       "small": [
-        "api/img/71563283061-s.jpg",
-        "api/img/71563283062-s.jpg",
-        "api/img/71563283063-s.jpg",
-        "api/img/71563283064-l.jpg",
-        "api/img/71563283065-l.jpg",
-        "api/img/71563283066-l.jpg"
+        "img/71563283061-s.jpg",
+        "img/71563283062-s.jpg",
+        "img/71563283063-s.jpg",
+        "img/71563283064-l.jpg",
+        "img/71563283065-l.jpg",
+        "img/71563283066-l.jpg"
       ]
     }
   },
@@ -515,16 +515,16 @@
     },
     "category": "smartwatch",
     "images": {
-      "present": "api/img/18459214551.jpg",
+      "present": "img/18459214551.jpg",
       "large": [
-        "api/img/18459214551-l.jpg",
-        "api/img/18459214552-l.jpg",
-        "api/img/18459214553-l.jpg"
+        "img/18459214551-l.jpg",
+        "img/18459214552-l.jpg",
+        "img/18459214553-l.jpg"
       ],
       "small": [
-        "api/img/18459214551-s.jpg",
-        "api/img/18459214552-s.jpg",
-        "api/img/18459214553-s.jpg"
+        "img/18459214551-s.jpg",
+        "img/18459214552-s.jpg",
+        "img/18459214553-s.jpg"
       ]
     }
   },
@@ -559,22 +559,22 @@
     },
     "category": "smartwatch",
     "images": {
-      "present": "api/img/60989942581.jpg",
+      "present": "img/60989942581.jpg",
       "large": [
-        "api/img/60989942581-l.jpg",
-        "api/img/60989942582-l.jpg",
-        "api/img/60989942583-l.jpg",
-        "api/img/60989942584-l.jpg",
-        "api/img/60989942585-l.jpg",
-        "api/img/60989942586-l.jpg"
+        "img/60989942581-l.jpg",
+        "img/60989942582-l.jpg",
+        "img/60989942583-l.jpg",
+        "img/60989942584-l.jpg",
+        "img/60989942585-l.jpg",
+        "img/60989942586-l.jpg"
       ],
       "small": [
-        "api/img/60989942581-s.jpg",
-        "api/img/60989942582-s.jpg",
-        "api/img/60989942583-s.jpg",
-        "api/img/60989942584-l.jpg",
-        "api/img/60989942585-l.jpg",
-        "api/img/60989942586-l.jpg"
+        "img/60989942581-s.jpg",
+        "img/60989942582-s.jpg",
+        "img/60989942583-s.jpg",
+        "img/60989942584-l.jpg",
+        "img/60989942585-l.jpg",
+        "img/60989942586-l.jpg"
       ]
     }
   },
@@ -600,16 +600,16 @@
     },
     "category": "smartwatch",
     "images": {
-      "present": "api/img/92687736461.jpg",
+      "present": "img/92687736461.jpg",
       "large": [
-        "api/img/92687736461-l.jpg",
-        "api/img/92687736462-l.jpg",
-        "api/img/92687736463-l.jpg"
+        "img/92687736461-l.jpg",
+        "img/92687736462-l.jpg",
+        "img/92687736463-l.jpg"
       ],
       "small": [
-        "api/img/92687736461-s.jpg",
-        "api/img/92687736462-s.jpg",
-        "api/img/92687736463-s.jpg"
+        "img/92687736461-s.jpg",
+        "img/92687736462-s.jpg",
+        "img/92687736463-s.jpg"
       ]
     }
   },
@@ -634,16 +634,16 @@
     },
     "category": "smartwatch",
     "images": {
-      "present": "api/img/48367418351.jpg",
+      "present": "img/48367418351.jpg",
       "large": [
-        "api/img/48367418351-l.jpg",
-        "api/img/48367418352-l.jpg",
-        "api/img/48367418353-l.jpg"
+        "img/48367418351-l.jpg",
+        "img/48367418352-l.jpg",
+        "img/48367418353-l.jpg"
       ],
       "small": [
-        "api/img/48367418351-s.jpg",
-        "api/img/48367418352-s.jpg",
-        "api/img/48367418353-s.jpg"
+        "img/48367418351-s.jpg",
+        "img/48367418352-s.jpg",
+        "img/48367418353-s.jpg"
       ]
     }
   },
@@ -673,18 +673,18 @@
     },
     "category": "smartwatch",
     "images": {
-      "present": "api/img/11038775561.jpg",
+      "present": "img/11038775561.jpg",
       "large": [
-        "api/img/11038775561-l.jpg",
-        "api/img/11038775562-l.jpg",
-        "api/img/11038775563-l.jpg",
-        "api/img/11038775564-l.jpg"
+        "img/11038775561-l.jpg",
+        "img/11038775562-l.jpg",
+        "img/11038775563-l.jpg",
+        "img/11038775564-l.jpg"
       ],
       "small": [
-        "api/img/11038775561-s.jpg",
-        "api/img/11038775562-s.jpg",
-        "api/img/11038775563-s.jpg",
-        "api/img/11038775564-s.jpg"
+        "img/11038775561-s.jpg",
+        "img/11038775562-s.jpg",
+        "img/11038775563-s.jpg",
+        "img/11038775564-s.jpg"
       ]
     }
   },
@@ -712,9 +712,9 @@
     },
     "category": "monoblok",
     "images": {
-      "present": "api/img/23436256191.jpg",
-      "large": ["api/img/23436256191-l.jpg", "api/img/23436256192-l.jpg"],
-      "small": ["api/img/23436256191-s.jpg", "api/img/23436256192-s.jpg"]
+      "present": "img/23436256191.jpg",
+      "large": ["img/23436256191-l.jpg", "img/23436256192-l.jpg"],
+      "small": ["img/23436256191-s.jpg", "img/23436256192-s.jpg"]
     }
   },
   {
@@ -747,20 +747,20 @@
     },
     "category": "monoblok",
     "images": {
-      "present": "api/img/73722029721.jpg",
+      "present": "img/73722029721.jpg",
       "large": [
-        "api/img/73722029721-l.jpg",
-        "api/img/73722029722-l.jpg",
-        "api/img/73722029723-l.jpg",
-        "api/img/73722029724-l.jpg",
-        "api/img/73722029725-l.jpg"
+        "img/73722029721-l.jpg",
+        "img/73722029722-l.jpg",
+        "img/73722029723-l.jpg",
+        "img/73722029724-l.jpg",
+        "img/73722029725-l.jpg"
       ],
       "small": [
-        "api/img/73722029721-s.jpg",
-        "api/img/73722029722-s.jpg",
-        "api/img/73722029723-s.jpg",
-        "api/img/73722029724-s.jpg",
-        "api/img/73722029725-s.jpg"
+        "img/73722029721-s.jpg",
+        "img/73722029722-s.jpg",
+        "img/73722029723-s.jpg",
+        "img/73722029724-s.jpg",
+        "img/73722029725-s.jpg"
       ]
     }
   },
@@ -792,18 +792,18 @@
     },
     "category": "monoblok",
     "images": {
-      "present": "api/img/52026264101.jpg",
+      "present": "img/52026264101.jpg",
       "large": [
-        "api/img/52026264101-l.jpg",
-        "api/img/52026264102-l.jpg",
-        "api/img/52026264103-l.jpg",
-        "api/img/52026264104-l.jpg"
+        "img/52026264101-l.jpg",
+        "img/52026264102-l.jpg",
+        "img/52026264103-l.jpg",
+        "img/52026264104-l.jpg"
       ],
       "small": [
-        "api/img/52026264101-s.jpg",
-        "api/img/52026264102-s.jpg",
-        "api/img/52026264103-s.jpg",
-        "api/img/52026264104-s.jpg"
+        "img/52026264101-s.jpg",
+        "img/52026264102-s.jpg",
+        "img/52026264103-s.jpg",
+        "img/52026264104-s.jpg"
       ]
     }
   },
@@ -829,18 +829,18 @@
     },
     "category": "monoblok",
     "images": {
-      "present": "api/img/52026264101.jpg",
+      "present": "img/52026264101.jpg",
       "large": [
-        "api/img/52026264101-l.jpg",
-        "api/img/52026264102-l.jpg",
-        "api/img/52026264103-l.jpg",
-        "api/img/52026264104-l.jpg"
+        "img/52026264101-l.jpg",
+        "img/52026264102-l.jpg",
+        "img/52026264103-l.jpg",
+        "img/52026264104-l.jpg"
       ],
       "small": [
-        "api/img/52026264101-s.jpg",
-        "api/img/52026264102-s.jpg",
-        "api/img/52026264103-s.jpg",
-        "api/img/52026264104-s.jpg"
+        "img/52026264101-s.jpg",
+        "img/52026264102-s.jpg",
+        "img/52026264103-s.jpg",
+        "img/52026264104-s.jpg"
       ]
     }
   },
@@ -866,22 +866,22 @@
     },
     "category": "monoblok",
     "images": {
-      "present": "api/img/27558018551.jpg",
+      "present": "img/27558018551.jpg",
       "large": [
-        "api/img/27558018551-l.jpg",
-        "api/img/27558018552-l.jpg",
-        "api/img/27558018553-l.jpg",
-        "api/img/27558018554-l.jpg",
-        "api/img/27558018555-l.jpg",
-        "api/img/27558018556-l.jpg"
+        "img/27558018551-l.jpg",
+        "img/27558018552-l.jpg",
+        "img/27558018553-l.jpg",
+        "img/27558018554-l.jpg",
+        "img/27558018555-l.jpg",
+        "img/27558018556-l.jpg"
       ],
       "small": [
-        "api/img/27558018551-s.jpg",
-        "api/img/27558018552-s.jpg",
-        "api/img/27558018553-s.jpg",
-        "api/img/27558018554-l.jpg",
-        "api/img/27558018555-l.jpg",
-        "api/img/27558018556-l.jpg"
+        "img/27558018551-s.jpg",
+        "img/27558018552-s.jpg",
+        "img/27558018553-s.jpg",
+        "img/27558018554-l.jpg",
+        "img/27558018555-l.jpg",
+        "img/27558018556-l.jpg"
       ]
     }
   },
@@ -908,16 +908,16 @@
     },
     "category": "monoblok",
     "images": {
-      "present": "api/img/78686371951.jpg",
+      "present": "img/78686371951.jpg",
       "large": [
-        "api/img/78686371951-l.jpg",
-        "api/img/78686371952-l.jpg",
-        "api/img/78686371953-l.jpg"
+        "img/78686371951-l.jpg",
+        "img/78686371952-l.jpg",
+        "img/78686371953-l.jpg"
       ],
       "small": [
-        "api/img/78686371951-s.jpg",
-        "api/img/78686371952-s.jpg",
-        "api/img/78686371953-s.jpg"
+        "img/78686371951-s.jpg",
+        "img/78686371952-s.jpg",
+        "img/78686371953-s.jpg"
       ]
     }
   },
@@ -944,22 +944,22 @@
     },
     "category": "notebook",
     "images": {
-      "present": "api/img/58651378731.jpg",
+      "present": "img/58651378731.jpg",
       "large": [
-        "api/img/58651378731-l.jpg",
-        "api/img/58651378732-l.jpg",
-        "api/img/58651378733-l.jpg",
-        "api/img/58651378734-l.jpg",
-        "api/img/58651378735-l.jpg",
-        "api/img/58651378736-l.jpg"
+        "img/58651378731-l.jpg",
+        "img/58651378732-l.jpg",
+        "img/58651378733-l.jpg",
+        "img/58651378734-l.jpg",
+        "img/58651378735-l.jpg",
+        "img/58651378736-l.jpg"
       ],
       "small": [
-        "api/img/58651378731-s.jpg",
-        "api/img/58651378732-s.jpg",
-        "api/img/58651378733-s.jpg",
-        "api/img/58651378734-s.jpg",
-        "api/img/58651378735-s.jpg",
-        "api/img/58651378736-s.jpg"
+        "img/58651378731-s.jpg",
+        "img/58651378732-s.jpg",
+        "img/58651378733-s.jpg",
+        "img/58651378734-s.jpg",
+        "img/58651378735-s.jpg",
+        "img/58651378736-s.jpg"
       ]
     }
   },
@@ -987,9 +987,9 @@
     },
     "category": "notebook",
     "images": {
-      "present": "api/img/31848036041.jpg",
-      "large": ["api/img/31848036041-l.jpg"],
-      "small": ["api/img/318480360431-s.jpg"]
+      "present": "img/31848036041.jpg",
+      "large": ["img/31848036041-l.jpg"],
+      "small": ["img/318480360431-s.jpg"]
     }
   },
   {
@@ -1016,16 +1016,16 @@
     },
     "category": "notebook",
     "images": {
-      "present": "api/img/77879135071.jpg",
+      "present": "img/77879135071.jpg",
       "large": [
-        "api/img/77879135071-l.jpg",
-        "api/img/77879135072-l.jpg",
-        "api/img/77879135073-l.jpg"
+        "img/77879135071-l.jpg",
+        "img/77879135072-l.jpg",
+        "img/77879135073-l.jpg"
       ],
       "small": [
-        "api/img/77879135071-s.jpg",
-        "api/img/77879135072-s.jpg",
-        "api/img/77879135073-s.jpg"
+        "img/77879135071-s.jpg",
+        "img/77879135072-s.jpg",
+        "img/77879135073-s.jpg"
       ]
     }
   },
@@ -1057,18 +1057,18 @@
     },
     "category": "notebook",
     "images": {
-      "present": "api/img/71742465351.jpg",
+      "present": "img/71742465351.jpg",
       "large": [
-        "api/img/71742465351-l.jpg",
-        "api/img/71742465352-l.jpg",
-        "api/img/71742465353-l.jpg",
-        "api/img/71742465354-l.jpg"
+        "img/71742465351-l.jpg",
+        "img/71742465352-l.jpg",
+        "img/71742465353-l.jpg",
+        "img/71742465354-l.jpg"
       ],
       "small": [
-        "api/img/71742465351-s.jpg",
-        "api/img/71742465352-s.jpg",
-        "api/img/71742465353-s.jpg",
-        "api/img/71742465354-s.jpg"
+        "img/71742465351-s.jpg",
+        "img/71742465352-s.jpg",
+        "img/71742465353-s.jpg",
+        "img/71742465354-s.jpg"
       ]
     }
   },
@@ -1096,18 +1096,18 @@
     },
     "category": "notebook",
     "images": {
-      "present": "api/img/30706677411.jpg",
+      "present": "img/30706677411.jpg",
       "large": [
-        "api/img/30706677411-l.jpg",
-        "api/img/30706677412-l.jpg",
-        "api/img/30706677413-l.jpg",
-        "api/img/30706677414-l.jpg"
+        "img/30706677411-l.jpg",
+        "img/30706677412-l.jpg",
+        "img/30706677413-l.jpg",
+        "img/30706677414-l.jpg"
       ],
       "small": [
-        "api/img/30706677411-s.jpg",
-        "api/img/30706677412-s.jpg",
-        "api/img/30706677413-s.jpg",
-        "api/img/30706677414-s.jpg"
+        "img/30706677411-s.jpg",
+        "img/30706677412-s.jpg",
+        "img/30706677413-s.jpg",
+        "img/30706677414-s.jpg"
       ]
     }
   },
@@ -1134,20 +1134,20 @@
     },
     "category": "notebook",
     "images": {
-      "present": "api/img/11037535671.jpg",
+      "present": "img/11037535671.jpg",
       "large": [
-        "api/img/11037535671-l.jpg",
-        "api/img/11037535672-l.jpg",
-        "api/img/11037535673-l.jpg",
-        "api/img/11037535674-l.jpg",
-        "api/img/11037535675-l.jpg"
+        "img/11037535671-l.jpg",
+        "img/11037535672-l.jpg",
+        "img/11037535673-l.jpg",
+        "img/11037535674-l.jpg",
+        "img/11037535675-l.jpg"
       ],
       "small": [
-        "api/img/11037535671-s.jpg",
-        "api/img/11037535672-s.jpg",
-        "api/img/11037535673-s.jpg",
-        "api/img/11037535674-s.jpg",
-        "api/img/11037535675-s.jpg"
+        "img/11037535671-s.jpg",
+        "img/11037535672-s.jpg",
+        "img/11037535673-s.jpg",
+        "img/11037535674-s.jpg",
+        "img/11037535675-s.jpg"
       ]
     }
   },
@@ -1186,26 +1186,26 @@
     },
     "category": "notebook",
     "images": {
-      "present": "api/img/51237623311.jpg",
+      "present": "img/51237623311.jpg",
       "large": [
-        "api/img/51237623311-l.jpg",
-        "api/img/51237623312-l.jpg",
-        "api/img/51237623313-l.jpg",
-        "api/img/51237623314-l.jpg",
-        "api/img/51237623315-l.jpg",
-        "api/img/51237623316-l.jpg",
-        "api/img/51237623317-l.jpg",
-        "api/img/51237623318-l.jpg"
+        "img/51237623311-l.jpg",
+        "img/51237623312-l.jpg",
+        "img/51237623313-l.jpg",
+        "img/51237623314-l.jpg",
+        "img/51237623315-l.jpg",
+        "img/51237623316-l.jpg",
+        "img/51237623317-l.jpg",
+        "img/51237623318-l.jpg"
       ],
       "small": [
-        "api/img/51237623311-s.jpg",
-        "api/img/51237623312-s.jpg",
-        "api/img/51237623313-s.jpg",
-        "api/img/51237623314-s.jpg",
-        "api/img/51237623315-s.jpg",
-        "api/img/51237623316-s.jpg",
-        "api/img/51237623317-s.jpg",
-        "api/img/51237623318-s.jpg"
+        "img/51237623311-s.jpg",
+        "img/51237623312-s.jpg",
+        "img/51237623313-s.jpg",
+        "img/51237623314-s.jpg",
+        "img/51237623315-s.jpg",
+        "img/51237623316-s.jpg",
+        "img/51237623317-s.jpg",
+        "img/51237623318-s.jpg"
       ]
     }
   },
@@ -1232,22 +1232,22 @@
     },
     "category": "ebook",
     "images": {
-      "present": "api/img/44114653771.jpg",
+      "present": "img/44114653771.jpg",
       "large": [
-        "api/img/44114653771-l.jpg",
-        "api/img/44114653772-l.jpg",
-        "api/img/44114653773-l.jpg",
-        "api/img/44114653774-l.jpg",
-        "api/img/44114653775-l.jpg",
-        "api/img/44114653776-l.jpg"
+        "img/44114653771-l.jpg",
+        "img/44114653772-l.jpg",
+        "img/44114653773-l.jpg",
+        "img/44114653774-l.jpg",
+        "img/44114653775-l.jpg",
+        "img/44114653776-l.jpg"
       ],
       "small": [
-        "api/img/44114653771-s.jpg",
-        "api/img/44114653772-s.jpg",
-        "api/img/44114653773-s.jpg",
-        "api/img/44114653774-s.jpg",
-        "api/img/44114653775-s.jpg",
-        "api/img/44114653776-s.jpg"
+        "img/44114653771-s.jpg",
+        "img/44114653772-s.jpg",
+        "img/44114653773-s.jpg",
+        "img/44114653774-s.jpg",
+        "img/44114653775-s.jpg",
+        "img/44114653776-s.jpg"
       ]
     }
   },
@@ -1274,18 +1274,18 @@
     },
     "category": "ebook",
     "images": {
-      "present": "api/img/97346480281.jpg",
+      "present": "img/97346480281.jpg",
       "large": [
-        "api/img/97346480281-l.jpg",
-        "api/img/97346480282-l.jpg",
-        "api/img/97346480283-l.jpg",
-        "api/img/97346480284-l.jpg"
+        "img/97346480281-l.jpg",
+        "img/97346480282-l.jpg",
+        "img/97346480283-l.jpg",
+        "img/97346480284-l.jpg"
       ],
       "small": [
-        "api/img/97346480281-s.jpg",
-        "api/img/97346480282-s.jpg",
-        "api/img/97346480283-s.jpg",
-        "api/img/97346480284-s.jpg"
+        "img/97346480281-s.jpg",
+        "img/97346480282-s.jpg",
+        "img/97346480283-s.jpg",
+        "img/97346480284-s.jpg"
       ]
     }
   },
@@ -1316,18 +1316,18 @@
     },
     "category": "ebook",
     "images": {
-      "present": "api/img/91466368401.jpg",
+      "present": "img/91466368401.jpg",
       "large": [
-        "api/img/91466368401-l.jpg",
-        "api/img/91466368402-l.jpg",
-        "api/img/91466368403-l.jpg",
-        "api/img/91466368404-l.jpg"
+        "img/91466368401-l.jpg",
+        "img/91466368402-l.jpg",
+        "img/91466368403-l.jpg",
+        "img/91466368404-l.jpg"
       ],
       "small": [
-        "api/img/91466368401-s.jpg",
-        "api/img/91466368402-s.jpg",
-        "api/img/91466368403-s.jpg",
-        "api/img/91466368404-s.jpg"
+        "img/91466368401-s.jpg",
+        "img/91466368402-s.jpg",
+        "img/91466368403-s.jpg",
+        "img/91466368404-s.jpg"
       ]
     }
   },
@@ -1354,16 +1354,16 @@
     },
     "category": "ebook",
     "images": {
-      "present": "api/img/97124123241.jpg",
+      "present": "img/97124123241.jpg",
       "large": [
-        "api/img/97124123241-l.jpg",
-        "api/img/97124123242-l.jpg",
-        "api/img/97124123243-l.jpg"
+        "img/97124123241-l.jpg",
+        "img/97124123242-l.jpg",
+        "img/97124123243-l.jpg"
       ],
       "small": [
-        "api/img/97124123241-s.jpg",
-        "api/img/97124123242-s.jpg",
-        "api/img/97124123243-s.jpg"
+        "img/97124123241-s.jpg",
+        "img/97124123242-s.jpg",
+        "img/97124123243-s.jpg"
       ]
     }
   },
@@ -1390,9 +1390,9 @@
     },
     "category": "ebook",
     "images": {
-      "present": "api/img/92954458711.jpg",
-      "large": ["api/img/92954458711-l.jpg", "api/img/92954458712-l.jpg"],
-      "small": ["api/img/92954458711-s.jpg", "api/img/92954458712-s.jpg"]
+      "present": "img/92954458711.jpg",
+      "large": ["img/92954458711-l.jpg", "img/92954458712-l.jpg"],
+      "small": ["img/92954458711-s.jpg", "img/92954458712-s.jpg"]
     }
   },
   {
@@ -1418,22 +1418,22 @@
     },
     "category": "monitor",
     "images": {
-      "present": "api/img/55528362051.jpg",
+      "present": "img/55528362051.jpg",
       "large": [
-        "api/img/55528362051-l.jpg",
-        "api/img/55528362052-l.jpg",
-        "api/img/55528362053-l.jpg",
-        "api/img/55528362054-l.jpg",
-        "api/img/55528362055-l.jpg",
-        "api/img/55528362056-l.jpg"
+        "img/55528362051-l.jpg",
+        "img/55528362052-l.jpg",
+        "img/55528362053-l.jpg",
+        "img/55528362054-l.jpg",
+        "img/55528362055-l.jpg",
+        "img/55528362056-l.jpg"
       ],
       "small": [
-        "api/img/55528362051-s.jpg",
-        "api/img/55528362052-s.jpg",
-        "api/img/55528362053-s.jpg",
-        "api/img/55528362054-s.jpg",
-        "api/img/55528362055-s.jpg",
-        "api/img/55528362056-s.jpg"
+        "img/55528362051-s.jpg",
+        "img/55528362052-s.jpg",
+        "img/55528362053-s.jpg",
+        "img/55528362054-s.jpg",
+        "img/55528362055-s.jpg",
+        "img/55528362056-s.jpg"
       ]
     }
   },
@@ -1460,18 +1460,18 @@
     },
     "category": "monitor",
     "images": {
-      "present": "api/img/69161952511.jpg",
+      "present": "img/69161952511.jpg",
       "large": [
-        "api/img/69161952511-l.jpg",
-        "api/img/69161952512-l.jpg",
-        "api/img/69161952513-l.jpg",
-        "api/img/69161952514-l.jpg"
+        "img/69161952511-l.jpg",
+        "img/69161952512-l.jpg",
+        "img/69161952513-l.jpg",
+        "img/69161952514-l.jpg"
       ],
       "small": [
-        "api/img/69161952511-s.jpg",
-        "api/img/69161952512-s.jpg",
-        "api/img/69161952513-s.jpg",
-        "api/img/69161952514-s.jpg"
+        "img/69161952511-s.jpg",
+        "img/69161952512-s.jpg",
+        "img/69161952513-s.jpg",
+        "img/69161952514-s.jpg"
       ]
     }
   },
@@ -1498,20 +1498,20 @@
     },
     "category": "monitor",
     "images": {
-      "present": "api/img/44858939661.jpg",
+      "present": "img/44858939661.jpg",
       "large": [
-        "api/img/44858939661-l.jpg",
-        "api/img/44858939662-l.jpg",
-        "api/img/44858939663-l.jpg",
-        "api/img/44858939664-l.jpg",
-        "api/img/44858939665-l.jpg"
+        "img/44858939661-l.jpg",
+        "img/44858939662-l.jpg",
+        "img/44858939663-l.jpg",
+        "img/44858939664-l.jpg",
+        "img/44858939665-l.jpg"
       ],
       "small": [
-        "api/img/44858939661-s.jpg",
-        "api/img/44858939662-s.jpg",
-        "api/img/44858939663-s.jpg",
-        "api/img/44858939664-s.jpg",
-        "api/img/44858939665-s.jpg"
+        "img/44858939661-s.jpg",
+        "img/44858939662-s.jpg",
+        "img/44858939663-s.jpg",
+        "img/44858939664-s.jpg",
+        "img/44858939665-s.jpg"
       ]
     }
   },
@@ -1538,18 +1538,18 @@
     },
     "category": "monitor",
     "images": {
-      "present": "api/img/96712477511.jpg",
+      "present": "img/96712477511.jpg",
       "large": [
-        "api/img/96712477511-l.jpg",
-        "api/img/96712477512-l.jpg",
-        "api/img/96712477513-l.jpg",
-        "api/img/96712477514-l.jpg"
+        "img/96712477511-l.jpg",
+        "img/96712477512-l.jpg",
+        "img/96712477513-l.jpg",
+        "img/96712477514-l.jpg"
       ],
       "small": [
-        "api/img/96712477511-s.jpg",
-        "api/img/96712477512-s.jpg",
-        "api/img/96712477513-s.jpg",
-        "api/img/96712477514-s.jpg"
+        "img/96712477511-s.jpg",
+        "img/96712477512-s.jpg",
+        "img/96712477513-s.jpg",
+        "img/96712477514-s.jpg"
       ]
     }
   },
@@ -1586,20 +1586,20 @@
     },
     "category": "monitor",
     "images": {
-      "present": "api/img/22069224421.jpg",
+      "present": "img/22069224421.jpg",
       "large": [
-        "api/img/22069224421-l.jpg",
-        "api/img/22069224422-l.jpg",
-        "api/img/22069224423-l.jpg",
-        "api/img/22069224424-l.jpg",
-        "api/img/22069224425-l.jpg"
+        "img/22069224421-l.jpg",
+        "img/22069224422-l.jpg",
+        "img/22069224423-l.jpg",
+        "img/22069224424-l.jpg",
+        "img/22069224425-l.jpg"
       ],
       "small": [
-        "api/img/22069224421-s.jpg",
-        "api/img/22069224422-s.jpg",
-        "api/img/22069224423-s.jpg",
-        "api/img/22069224424-s.jpg",
-        "api/img/22069224425-s.jpg"
+        "img/22069224421-s.jpg",
+        "img/22069224422-s.jpg",
+        "img/22069224423-s.jpg",
+        "img/22069224424-s.jpg",
+        "img/22069224425-s.jpg"
       ]
     }
   },
@@ -1626,22 +1626,22 @@
     },
     "category": "monitor",
     "images": {
-      "present": "api/img/60847696571.jpg",
+      "present": "img/60847696571.jpg",
       "large": [
-        "api/img/60847696571-l.jpg",
-        "api/img/60847696572-l.jpg",
-        "api/img/60847696573-l.jpg",
-        "api/img/60847696574-l.jpg",
-        "api/img/60847696575-l.jpg",
-        "api/img/60847696576-l.jpg"
+        "img/60847696571-l.jpg",
+        "img/60847696572-l.jpg",
+        "img/60847696573-l.jpg",
+        "img/60847696574-l.jpg",
+        "img/60847696575-l.jpg",
+        "img/60847696576-l.jpg"
       ],
       "small": [
-        "api/img/60847696571-s.jpg",
-        "api/img/60847696572-s.jpg",
-        "api/img/60847696573-s.jpg",
-        "api/img/60847696574-s.jpg",
-        "api/img/60847696575-s.jpg",
-        "api/img/60847696576-s.jpg"
+        "img/60847696571-s.jpg",
+        "img/60847696572-s.jpg",
+        "img/60847696573-s.jpg",
+        "img/60847696574-s.jpg",
+        "img/60847696575-s.jpg",
+        "img/60847696576-s.jpg"
       ]
     }
   },
@@ -1670,20 +1670,20 @@
     },
     "category": "smart",
     "images": {
-      "present": "api/img/81802826001.jpg",
+      "present": "img/81802826001.jpg",
       "large": [
-        "api/img/81802826001-l.jpg",
-        "api/img/81802826002-l.jpg",
-        "api/img/81802826003-l.jpg",
-        "api/img/81802826004-l.jpg",
-        "api/img/81802826005-l.jpg"
+        "img/81802826001-l.jpg",
+        "img/81802826002-l.jpg",
+        "img/81802826003-l.jpg",
+        "img/81802826004-l.jpg",
+        "img/81802826005-l.jpg"
       ],
       "small": [
-        "api/img/81802826001-s.jpg",
-        "api/img/81802826002-s.jpg",
-        "api/img/81802826003-s.jpg",
-        "api/img/81802826004-s.jpg",
-        "api/img/81802826005-s.jpg"
+        "img/81802826001-s.jpg",
+        "img/81802826002-s.jpg",
+        "img/81802826003-s.jpg",
+        "img/81802826004-s.jpg",
+        "img/81802826005-s.jpg"
       ]
     }
   }

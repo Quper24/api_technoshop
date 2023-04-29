@@ -5,7 +5,7 @@ const { createServer } = require("http");
 // файл для базы данных
 const DB_FILE = process.env.DB_FILE || "./db.json";
 // номер порта, на котором будет запущен сервер
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 // префикс URI для всех методов приложения
 const URI_PREFIX = "/api/goods";
 
@@ -130,6 +130,16 @@ function getItems(itemId) {
 // создаём HTTP сервер, переданная функция будет реагировать на все запросы к нему
 module.exports = server = createServer(async (req, res) => {
   // req - объект с информацией о запросе, res - объект для управления отправляемым ответом
+  // чтобы не отклонять uri с img
+  console.log(req.url.substring(1, 4));
+  if (req.url.substring(1, 4) === "img") {
+    res.statusCode = 200;
+    res.setHeader("Content-Type", "image/jpeg");
+    require("fs").readFile(`.${req.url}`, (err, image) => {
+      res.end(image);
+    });
+    return;
+  }
 
   // этот заголовок ответа указывает, что тело ответа будет в JSON формате
   res.setHeader("Content-Type", "application/json");
