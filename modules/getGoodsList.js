@@ -25,18 +25,18 @@ export const getGoodsList = async (params = {}) => {
     if (params.category) {
       const category = params.category.trim().toLowerCase();
       const regExp = new RegExp(`^${category}$`);
-      return paginateGoods(data.filter(({ category }) => regExp.test(category.toLowerCase())), page, paginationCount, sort);
+      return paginateGoods(
+        data.filter(({ category }) => regExp.test(category.toLowerCase())),
+        page,
+        paginationCount,
+        sort
+      );
     }
     return paginateGoods(data, page, paginationCount, sort);
   }
 
   if (params.list) {
-    return paginateGoods(
-      goods.filter(({ id }) => list.includes(id)),
-      page,
-      paginationCount,
-      sort
-    );
+    return goods.filter(({ id }) => params.list.includes(id));
   }
 
   let data = goods;
